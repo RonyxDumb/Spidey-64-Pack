@@ -18,7 +18,3 @@ Il pack è stato adattato per essere compatibile con la struttura del **SM64 dec
 ## Note
 
 Questo progetto modifica solamente l'aspetto del personaggio e utilizza il sistema di animazioni e comportamento originale di Mario.
-
-### Spidey Pack
-
-**Spider-Man meets Super Mario 64.**
